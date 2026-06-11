@@ -42,6 +42,12 @@ During setup, you can configure:
 - Host/IP of your Liquid-Check device
 - Polling interval (`scan_interval`, seconds)
 
+## Example device view
+
+<img src="docs/de_example_device.png" alt="Example device view" width="80%">
+
+Note: the example screenshot currently uses German labels in the Home Assistant UI.
+
 ## Entities
 
 The integration provides sensors such as:
