@@ -1,0 +1,19 @@
+{
+    "domain": "liquid_check",
+    "name": "Liquid-Check",
+    "codeowners":
+    [
+        "@7weazel7"
+    ],
+    "integration_type": "device",
+    "config_flow": true,
+    "dependencies":
+    [],
+    "documentation": "https://github.com/7weazel7/homeassistant-liquidcheck",
+    "iot_class": "local_polling",
+    "issue_tracker": "https://github.com/7weazel7/homeassistant-liquidcheck/issues",
+    "requirements":
+    [],
+    "version": "1.0.0",
+    "homeassistant": "2026.6.0"
+}

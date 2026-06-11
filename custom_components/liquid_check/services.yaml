@@ -1,0 +1,11 @@
+start_measure:
+  name: Start measurement
+  description: Starts a new Liquid-Check measurement. Without entry_id all configured Liquid-Check devices are triggered.
+  fields:
+    entry_id:
+      name: Config Entry ID
+      description: Optional. Trigger only this Liquid-Check device.
+      example: "01J..."
+      required: false
+      selector:
+        text:
